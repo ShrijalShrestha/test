@@ -1,5 +1,5 @@
 {{#user}}
 Name: Shrijal
 Skills: HTML, CSS, Python, C++, C, SQL
-Email: test@gmail.com
+Email: shrijalshrestha85@gmail.com
 {{/user}}
